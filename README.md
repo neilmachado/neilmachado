@@ -5,4 +5,5 @@ As a dedicated cybersecurity professional, I am passionate about safeguarding di
 Let’s connect and explore ways to strengthen cybersecurity resilience together. Feel free to reach out for discussions, collaborations, or insights into the ever-evolving world of cybersecurity.
 
 [LinkedIN]([URL](https://www.linkedin.com/in/neilmachado/)https://www.linkedin.com/in/neilmachado/)
+
 [Gmail](neilmachado07@gmail.com)
