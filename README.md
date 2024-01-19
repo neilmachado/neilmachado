@@ -11,6 +11,6 @@ Let’s connect and explore ways to strengthen cybersecurity resilience together
 
 - 📫 <b>How to reach me:</b> [LinkedIn](https://linkedin.com/in/neilmachado)
 
-- 📌 <b>My Resume:</b> [Resume](https://github.com/neilmachado/neilmachado/blob/main/Neil.pdf)
+- 📌 <b>My Resume:</b> [Resume](https://github.com/neilmachado/neilmachado/blob/main/Neil%20Resume.pdf)
 
 <br>
