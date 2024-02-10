@@ -18,7 +18,9 @@
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/neilmachado/Wazuh-Setup-Enhanced-Security-Monitoring">ELK STACK SETUP</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/neilmachado/Packet-analysis">Detection Lab</a>|
 | Security Automation with Wazuh                | <a href="https://github.com/neilmachado/Wazuh-Setup-Enhanced-Security-Monitoring">Wazuh-Setup</a>|
-| Web Application Security                | <a href="https://github.com/neilmachado/OWASP-10---Juice-Shop-Walkthrough">OWASP-10 JUICE SHOP</a>|
+| Web Application Security - JuiceShop OS              | <a href="https://github.com/neilmachado/OWASP-10---Juice-Shop-Walkthrough">OWASP-10 JUICE SHOP</a>|
+| CyberSolve: Conquering Mr. Robot's Challenges                | <a href="https://github.com/neilmachado/Mr.ROBOT-VulnHub">OWASP-10 JUICE SHOP</a>|
+
 
 
 
