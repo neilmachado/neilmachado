@@ -1,13 +1,10 @@
 ## Hey there! 🔒 I'm a Cybersecurity Professional on a mission to safeguard the digital realm. #InfoSec #CyberDefense #Opentowork 🛡️
 
 [![Linkedin Badge](https://img.shields.io/badge/-neilmachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neilmachado/)](https://www.linkedin.com/in/neilmachado/)
-[![Gmail Badge](https://img.shields.io/badge/-neilmachado07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neilmachado07@gmail.com)](mailto:neilmachado@gmail.com) 
 
 <br>
 
 - 📫 <b>How to reach me:</b> [LinkedIn](https://linkedin.com/in/neilmachado)
-
-- 📌 <b>My Resume:</b> [Resume](https://github.com/neilmachado/neilmachado/blob/main/Neil%20%20CV.pdf)
 
 <br>
 
