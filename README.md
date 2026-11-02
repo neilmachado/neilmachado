@@ -1,4 +1,4 @@
-## Hey there! 🔒 I'm a Cybersecurity Professional on a mission to safeguard the digital realm. #InfoSec #CyberDefense #Opentowork 🛡️
+## Hey there! 🔒 I'm a Cybersecurity Professional on a mission to safeguard the digital realm. #InfoSec #CyberDefense 🛡️
 
 [![Linkedin Badge](https://img.shields.io/badge/-neilmachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neilmachado/)](https://www.linkedin.com/in/neilmachado/)
 
